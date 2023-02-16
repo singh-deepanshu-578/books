@@ -1,0 +1,14 @@
+﻿body{
+
+    font-family:"Helvetica Neue";
+    text-align:center;
+    }
+h1{
+    color: darkblue;
+    }
+img {
+    border-radius: 2000px;
+    margin-top:10px;
+    margin-left: 2px;
+    margin-right: 2px;
+    }
